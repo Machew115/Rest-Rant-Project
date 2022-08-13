@@ -15,7 +15,7 @@ function show (data) {
               Rating
             </h2>
             <h3 className="inactive">
-              Not Rated
+              Not Rated yet
             </h3>
             <br />
             <h2>
