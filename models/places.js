@@ -1,5 +1,5 @@
 module.exports = [{
-    name: 'H-Thai-ML',
+    name: 'H-thll-ML',
     city: 'Seattle',
     state: 'WA',
     cuisines: 'Thai, Pan-Asian',
