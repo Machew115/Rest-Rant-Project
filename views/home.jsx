@@ -4,7 +4,7 @@ function home () {
     return (
         <Def>
             <main>
-                <h1>Home</h1>
+                <h1>Home fixed ?</h1>
                 <div>
                     <img src='/images/funnyPhoto.jpg'/>
                 </div>
